@@ -54,7 +54,10 @@ Projects Done:
 🔹 **Communication:** SIM800L, HC-12
 
 ### Tools & Platforms
-Fusion 360 • Canva • Google AI Studio • Microsoft Office
+• Fusion 360
+• Canva
+• Google AI Studio
+• Microsoft Office
 
 ---
 
