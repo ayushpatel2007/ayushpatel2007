@@ -55,8 +55,11 @@ Projects Done:
 
 ### Tools & Platforms
 • Fusion 360
+
 • Canva
+
 • Google AI Studio
+
 • Microsoft Office
 
 ---
