@@ -5,8 +5,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Robots;Raspberry+Pi+Developer;Embedded+Systems+Enthusiast;Computer+Vision;Explorer+For+New+Technologies">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushpatel2037/)
+
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Ayush_2037)
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patelayush20@outlook.com)
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://portfolio.ayushpatel.me)
 
 ---
