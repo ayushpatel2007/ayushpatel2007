@@ -114,19 +114,6 @@ Mission     : Build AI-powered products that solve
 </p>
 
 ---
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=ayushpatel2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushpatel2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
