@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+<defs>
+<linearGradient id="grad" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#A855F7"/>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+
+<rect width="900" height="260" rx="20" fill="#0A101F" stroke="url(#grad)" stroke-width="3"/>
+
+<line x1="40" y1="55" x2="860" y2="55" stroke="#233044"/>
+
+<text x="450" y="105" text-anchor="middle"
+font-family="monospace"
+font-size="34"
+fill="#F8FAFC">Thanks for Visiting</text>
+
+<text x="450" y="145" text-anchor="middle"
+font-family="monospace"
+font-size="22"
+fill="#22D3EE">BUILD • LEARN • SHIP</text>
+
+<text x="450" y="185" text-anchor="middle"
+font-family="monospace"
+font-size="30"
+fill="url(#grad)">AYUSH.OS</text>
+
+<text x="450" y="225" text-anchor="middle"
+font-family="monospace"
+font-size="16"
+fill="#9CA3AF">github.com/ayushpatel2007  •  portfolio.ayushpatel.me  •  linkedin.com/in/ayushpatel2037</text>
+</svg>

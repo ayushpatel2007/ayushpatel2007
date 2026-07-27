@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#0A101F"/><stop offset="100%" stop-color="#111827"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#A855F7"/><stop offset="100%" stop-color="#22D3EE"/></linearGradient>
+</defs>
+<rect width="900" height="520" rx="22" fill="url(#bg)" stroke="url(#accent)" stroke-width="3"/>
+<text x="40" y="60" fill="#22D3EE" font-size="28" font-family="monospace">&gt; whoami</text>
+<line x1="40" y1="82" x2="860" y2="82" stroke="#243B53"/>
+<text x="60" y="130" fill="#9CA3AF" font-size="20" font-family="monospace">NAME</text>
+<text x="250" y="130" fill="#F8FAFC" font-size="22" font-family="monospace">Ayush Patel</text>
+<text x="60" y="180" fill="#9CA3AF" font-size="20" font-family="monospace">ROLE</text>
+<text x="250" y="180" fill="#F8FAFC" font-size="22" font-family="monospace">AI Developer | Full-Stack Developer</text>
+<text x="60" y="230" fill="#9CA3AF" font-size="20" font-family="monospace">ENGINEERING</text>
+<text x="250" y="230" fill="#F8FAFC" font-size="22" font-family="monospace">Automation &amp; Robotics</text>
+<text x="60" y="280" fill="#9CA3AF" font-size="20" font-family="monospace">LOCATION</text>
+<text x="250" y="280" fill="#F8FAFC" font-size="22" font-family="monospace">Vadodara, Gujarat, India</text>
+<text x="60" y="330" fill="#9CA3AF" font-size="20" font-family="monospace">MISSION</text>
+<text x="250" y="330" fill="#22D3EE" font-size="22" font-family="monospace">Building intelligent systems</text>
+<text x="250" y="360" fill="#22D3EE" font-size="22" font-family="monospace">that create real-world impact.</text>
+<rect x="60" y="415" width="780" height="55" rx="12" fill="#111827" stroke="#22D3EE"/>
+<circle cx="90" cy="442" r="8" fill="#10B981"/>
+<text x="110" y="449" fill="#F8FAFC" font-size="20" font-family="monospace">STATUS : BUILD • LEARN • SHIP</text>
+</svg>

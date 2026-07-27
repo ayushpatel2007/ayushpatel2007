@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+<defs>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#A855F7"/>
+<stop offset="100%" stop-color="#22D3EE"/>
+</linearGradient>
+</defs>
+
+<rect width="900" height="500" rx="22" fill="#0A101F" stroke="url(#g)" stroke-width="3"/>
+<circle cx="35" cy="30" r="7" fill="#EF4444"/>
+<circle cx="60" cy="30" r="7" fill="#F59E0B"/>
+<circle cx="85" cy="30" r="7" fill="#22C55E"/>
+
+<text x="40" y="75" fill="#22D3EE" font-family="monospace" font-size="26">$ boot ayush.os</text>
+<text x="40" y="120" fill="#E5E7EB" font-family="monospace" font-size="22">[✓] Initializing AI modules...</text>
+<text x="40" y="160" fill="#E5E7EB" font-family="monospace" font-size="22">[✓] Loading Robotics Toolkit...</text>
+<text x="40" y="200" fill="#E5E7EB" font-family="monospace" font-size="22">[✓] Starting Full-Stack Services...</text>
+<text x="40" y="240" fill="#E5E7EB" font-family="monospace" font-size="22">[✓] Portfolio Connected</text>
+
+<rect x="40" y="290" width="820" height="26" rx="13" fill="#1F2937"/>
+<rect x="40" y="290" width="820" height="26" rx="13" fill="url(#g)"/>
+
+<text x="40" y="370" fill="#10B981" font-family="monospace" font-size="34">SYSTEM STATUS : ONLINE</text>
+<text x="40" y="420" fill="#9CA3AF" font-family="monospace" font-size="20">BUILD • LEARN • SHIP</text>
+</svg>
