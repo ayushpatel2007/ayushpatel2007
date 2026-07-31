@@ -358,16 +358,6 @@ src="https://raw.githubusercontent.com/ayushpatel2007/ayushpatel2007/output/gith
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=ayushpatel2007&label=Profile%20Views&color=7F5AF0&style=for-the-badge"/>
-
-</p>
-
----
-
 # ❤️ Thanks for Visiting
 
 <p align="center">
